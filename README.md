@@ -3,7 +3,8 @@
 
 ## 손상된 너트 분석기
 - 개발 진행 시퀀스
-- <img width="816" height="1248" alt="_- visual selection" src="https://github.com/user-attachments/assets/56b20338-1615-44b7-b847-7f2a3bbd6e48" />
+- <img width="589" height="861" alt="스크린샷 2025-09-03 205507" src="https://github.com/user-attachments/assets/1c022624-8508-4270-a210-36c8ab3a496b" />
+
 
 - </b> 배선도 </b>
 - <img width="948" height="706" alt="image" src="https://github.com/user-attachments/assets/06292bac-9dbd-405f-b571-c9025ea391ca" />
