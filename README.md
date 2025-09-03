@@ -14,3 +14,14 @@
 - data_processing.ipynb
 - xgboost.ipynb
 - main.py
+
+## 작동 시퀀스
+- 하드웨어 제어
+  - Arduino mega
+  - 모터드라이버, DC 모터, 스텝 모터 제어
+  - HW_main.ino 기반 제어 코드
+
+ - 파이썬 인터페이스
+   - 카메라 연동 및 pyserial 이용한 하드웨어 명령 송신
+   - 키보드 제어, csv 데이터 추출
+   -  프레임 분석 및 점 트래킹으로 RPM 계산
