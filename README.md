@@ -2,7 +2,9 @@
 2025 임베디드SW 공모전 준비, 팀 <볼트앤너트>
 
 ## 손상된 너트 분석기
-- 설계도면 첨부 필요
+- </b>설계도면 </b>
+- <img width="948" height="706" alt="image" src="https://github.com/user-attachments/assets/06292bac-9dbd-405f-b571-c9025ea391ca" />
+
 - 배선도 첨부 필요
 ## Code Tree
 - HW_main/
@@ -25,3 +27,4 @@
    - 카메라 연동 및 pyserial 이용한 하드웨어 명령 송신
    - 키보드 제어, csv 데이터 추출
    -  프레임 분석 및 점 트래킹으로 RPM 계산
+   
