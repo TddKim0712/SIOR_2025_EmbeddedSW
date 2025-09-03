@@ -2,10 +2,12 @@
 2025 임베디드SW 공모전 준비, 팀 <볼트앤너트>
 
 ## 손상된 너트 분석기
-- </b>설계도면 </b>
+- </b> 배선도 </b>
 - <img width="948" height="706" alt="image" src="https://github.com/user-attachments/assets/06292bac-9dbd-405f-b571-c9025ea391ca" />
 
-- 배선도 첨부 필요
+-  </b> 설계도 </b>
+- <img width="1538" height="1334" alt="image" src="https://github.com/user-attachments/assets/98e110f1-708a-4ff0-9fda-53b620284495" />
+
 ## Code Tree
 - HW_main/
   - HW_main.ino
