@@ -13,7 +13,7 @@
     - INPUT은 스로틀 전압, 즉 토크이며 OUTPUT은 RPM, 즉 실제 회전 움직임을 의미한다.
     - 다양한 너트들의 해당 관계를 학습한 모델은 실시간으로 너트를 삽입하여 얻는 데이터를 바탕으로 사용가능한 너트인지 아닌지를 구분할 수 있다.
     -  
-- <img width="589" height="861" alt="스크린샷 2025-09-03 205507" src="https://github.com/user-attachments/assets/1c022624-8508-4270-a210-36c8ab3a496b" />
+- <img width="300" height="500" alt="스크린샷 2025-09-03 205507" src="https://github.com/user-attachments/assets/1c022624-8508-4270-a210-36c8ab3a496b" />
 
 
 - </b> 배선도 </b>
