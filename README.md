@@ -20,8 +20,10 @@
 - main.py
 
 ## 작동 시퀀스
+<img width="2076" height="1177" alt="손상검증시퀀스" src="https://github.com/user-attachments/assets/7db112a7-c8c0-4070-aa1c-7048b0605f2f" />
+
 - 하드웨어 제어
-  - Arduino mega
+  - Arduino Mega
   - 모터드라이버, DC 모터, 스텝 모터 제어
   - HW_main.ino 기반 제어 코드
 
