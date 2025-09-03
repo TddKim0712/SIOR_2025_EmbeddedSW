@@ -2,6 +2,9 @@
 2025 임베디드SW 공모전 준비, 팀 <볼트앤너트>
 
 ## 손상된 너트 분석기
+- 개발 진행 시퀀스
+- <img width="816" height="1248" alt="_- visual selection" src="https://github.com/user-attachments/assets/56b20338-1615-44b7-b847-7f2a3bbd6e48" />
+
 - </b> 배선도 </b>
 - <img width="948" height="706" alt="image" src="https://github.com/user-attachments/assets/06292bac-9dbd-405f-b571-c9025ea391ca" />
 
